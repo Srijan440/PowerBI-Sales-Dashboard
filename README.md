@@ -21,4 +21,4 @@ An interactive Power BI dashboard that brings clarity to retail sales performanc
 - [Download Global Superstore dataset](https://www.kaggle.com/datasets/shekpaul/global-superstore)
 
 ## Contact
-[LinkedIn]([https://www.linkedin.com/in/srijan-singh-s12/]) | [Email](mailto:srijansingh440@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/srijan-singh-s12/) | [Email](mailto:srijansingh440@gmail.com)
